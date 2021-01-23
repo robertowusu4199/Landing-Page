@@ -1,0 +1,30 @@
+.navbar-default {
+    background-color: #1e1c1c;
+    border-color: #e7e7e7;
+}
+
+.navbar-default .navbar-brand {
+    color: #eae5e5;
+}
+
+img {
+    margin-left: 25px;
+}
+
+li {
+    margin-left: 40px;
+}
+
+.form-group-1 {
+    margin-right: 57px;
+}
+
+.footer {
+    background-color: grey;
+    height: 30px;
+} 
+
+.footer p {
+    margin-top: 100px;
+    margin-left: 550px;
+}
